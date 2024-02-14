@@ -2,6 +2,8 @@
 
 # Make MIT App Inventor itsy easy
 
+### Foreword
+
 &nbsp;&nbsp;&nbsp;&nbsp;Ok... lets start, I would like to introduce myself my name is Kevin C. Magnifico (you can call me KEvs) and i'm a software developer, open source supporter, and also a coding instructor who teaches the students from grade school to high school on how to code whether a text based or block based code... and that's it... i know this is awkward but anyway, just proceed to read this documentation.
 
 Before you tackle to read this documentation, kindly please read the [notes](#h3notes) at the bottom, but don't worry it's not very serious documentation and you'll see why i've always started counting at 0 and this is not for the readers who don't like having a **sentence enhancers (often they called... a curse word)** in my documentation.
