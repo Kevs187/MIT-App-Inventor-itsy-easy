@@ -4,7 +4,7 @@
 
 ### Basic Layout
 
-One of the main reason, why should need to learn about basic layout is because we need to understand the proper layout for the best of **User Experience** (known as **UX**) and giving some better alignment of your **User Interfaces**.
+One of the main reason, why should need to learn about basic layout, is because we need to understand the proper layout for the best of **User Experience** (known as **UX**) and giving some better alignment of your **User Interfaces**.
 
 In **MIT App Inventor** they have 5 types of Layout components.
 
