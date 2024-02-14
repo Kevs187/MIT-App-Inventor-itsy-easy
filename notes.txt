@@ -1,0 +1,162 @@
+Title : Make MIT App Inventor easy
+
+Author & Copyright : Kevin C. Magnifico
+License : MIT expat License
+
+Chapter 0 - Introduction on MIT App Inventor
+
+	* What is Mobile application development ?
+	
+	* What is IDE ?
+
+Chapter 1 - Setup & Installation
+
+	* Android Setup
+
+	* iOS Setup
+
+Chapter 2 - Basic layout
+
+	* Description
+
+	* Vertical Arrangement
+
+	* Horizontal Arrangement
+
+	* Vertical Scroll Arrangement
+
+	* Horizontal Scroll Arrangement
+
+	* Table Arrangement
+
+Chapter 3 - Advance layout
+
+	* Splash Screen layout
+
+	* Login layout
+
+	* Dashboard layout
+
+Chapter 4 - User Interfaces
+	
+	* Description
+
+	* Label & Button
+	
+	* TextBox & PasswordTextbox
+
+	* Image
+
+	* Checkbox
+
+	* Switch
+
+	* Spinner
+
+	* Date Picker and Time Picker
+
+	* Screen
+
+	* Slider
+
+	* Notifier
+
+Chapter 5 - Events
+
+	* Description about Events
+
+	* Button Click
+
+Chapter 6 - Data Types & Variables
+	
+	* Explore the data types
+
+	* Description about variables
+
+	* Declare a variable
+
+	* Global & Local Variable
+
+	* Get and Set a data from variable 
+
+Chapter 7 - Conditional and Loop statement
+
+	* Description about conditional statement
+
+	* If
+
+	* If, else
+
+	* If, else if, else
+
+	* Description about loop statement
+
+	* while loop
+
+	* for loops
+
+Chapter 8 - Colors
+
+	* Description
+
+	* Built in colors
+
+	* Mix with up RGB
+
+Chapter 9 - Procedure or Methods
+
+	* Description
+
+	* Simple procedure
+
+	* Return value procedure
+
+	* Adding a Parameters or Arguments
+
+Chapter 10 - List
+
+	* Description about List.
+
+	* Declare and initialize a List with value
+	
+	* Accessing a List using index
+
+	* Counting item on List
+
+	* List Manipulation
+
+	* Apply the List into ListView ui
+
+Chapter 11 - Dictionaries
+
+	* Description about Dictionaries
+
+	* Difference between List and Dictionaries
+
+	* Understanding about JSON and XML
+
+	* Declare and initialize a Dictionaries with value
+
+	* Counting item on Dictionaries
+
+	* Dictionaries Manipulation
+
+	* Apply the Dictionaries into ListView ui
+
+
+Miscellaneous :
+
+* Bar Code Scanner
+
+* Speech Recognition
+
+* Text to Speech
+
+* Location Sensor
+
+* Webviewer
+
+* ListView
+
+
+
