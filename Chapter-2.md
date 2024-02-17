@@ -64,10 +64,13 @@ The purpose of using **Horizontal Arrangement** is to align all the **User Inter
 * **Step [0]**
 
     ![Horizontal-Arrangement-00.png](assets//Chapter-2//Horizontal-Arrangement-00.png)
+
+    > Go to [Pallete Panel](assets//Common//Pallete-Panel.png) click the **Layout** tab.
+
     ![Horizontal-Arrangement-01.png](assets//Chapter-2//Horizontal-Arrangement-01.png)
     ![Horizontal-Arrangement-02.png](assets//Chapter-2//Horizontal-Arrangement-02.png)
 
-    > Go to [Pallete Panel](assets//Common//Pallete-Panel.png) click the **Layout** tab, find the **Horizontal Arrangement** and then drag it and drop it on [Designer Viewer](assets//Common//Designer-Viewer.png).
+    > Find the **Horizontal Arrangement** and then drag it and drop it on [Designer Viewer](assets//Common//Designer-Viewer.png).
 
 * **Step [1]**
 
@@ -93,11 +96,17 @@ The **Vertical Scroll Arrangement** and **Vertical Arrangement** is same purpose
 * **Step [0]**
 
     ![Vertical-Scroll-Arrangement-00.png](assets//Chapter-2//Vertical-Scroll-Arrangement-00.png)
+
+    > Go to [Pallete Panel](assets//Common//Pallete-Panel.png) click the **Layout** tab.
+
     ![Vertical-Scroll-Arrangement-01.png](assets//Chapter-2//Vertical-Scroll-Arrangement-01.png)
+
+    > Drag the **Vertical Scroll Arrangement** and drop it on [Designer Viewer](assets//Common//Designer-Viewer.png).
+
     ![Vertical-Scroll-Arrangement-02.png](assets//Chapter-2//Vertical-Scroll-Arrangement-02.png)
     ![Vertical-Scroll-Arrangement-03.png](assets//Chapter-2//Vertical-Scroll-Arrangement-03.png)
 
-    > Go to [Pallete Panel](assets//Common//Pallete-Panel.png) click the **Layout** tab, drag the **Vertical Scroll Arrangement** and drop it on [Designer Viewer](assets//Common//Designer-Viewer.png), and then Change the **Vertical Scroll Arrangement** width property from **Automatic** to **Fill Parent**.
+    > Change the **Vertical Scroll Arrangement** width property from **Automatic** to **Fill Parent**.
 
 * **Step [1]**
 
