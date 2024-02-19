@@ -123,13 +123,63 @@ The **Vertical Scroll Arrangement** and **Vertical Arrangement** is same purpose
 
 ### Horizontal Scroll Arrangement
 
-The **Horizontal Scroll Arrangement** is the same as the **Horizontal Arrangement**, although they can scrollable horizontally, when the child user interface component was overflow the screen width.
+The **Horizontal Scroll Arrangement** is same as the **Horizontal Arrangement**, although they can scrollable horizontally, when the child user interface component was overflowing the screen width.
+
+* **Step [0]**
+
+    ![Horizontal-Scroll-Arrangement-00.png](assets//Chapter-2//Horizontal-Scroll-Arrangement-00.png)
+
+    > Click the layout tab.
+
+    ![Horizontal-Scroll-Arrangement-01.png](assets//Chapter-2//Horizontal-Scroll-Arrangement-01.png)
+    ![Horizontal-Scroll-Arrangement-02.png](assets//Chapter-2//Horizontal-Scroll-Arrangement-02.png)
+
+    > After that... let's drag the **Horizontal Scroll Arrangement** layout and place it under the [Designer Viewer](assets//Common//Designer-Viewer.png)
+
+* **Step [1]**
+
+    ![Horizontal-Scroll-Arrangement-10.png](assets//Chapter-2//Horizontal-Scroll-Arrangement-10.png)
+
+    > Change the **Horizontal Scroll Arrangement** width from **Automatic** to **Fill Parent**.
+
+    ![Horizontal-Scroll-Arrangement-11.png](assets//Chapter-2//Horizontal-Scroll-Arrangement-11.png)
+
+    > Add three buttons and try to test it on your device and see you'll what happen.
+    >
+    > #### Take Note :
+    > 
+    > * **Note [0]** : If the child user interface component was overflowing the screen width, then the the scrollability of **Horizontal Scroll Arrangement** will be activated.
 
 ---
 
 ### Table Arrangement
 
-The uses of **Vertical Arrangement** is to align all the user interface at the vertical level.
+The **Table Arrangement** is same as **Grid**, though the **Table Arrangement** can make a columns and rows unlike the other layouts, they could be use specifically and much complex to deal with. so if you like to make a **Tic Tac Toe** or **Chess** game, then this is the layout is the best to use of.
+
+* **Step [0]**
+
+    ![Table-Arrangement-00.png](assets//Chapter-2//Table-Arrangement-00.png)
+    ![Table-Arrangement-01.png](assets//Chapter-2//Table-Arrangement-01.png)
+
+    > To add a **Table Arrangement** you'll need to click the layout Tab and find the **Table Arrangement** component.
+
+    ![Table-Arrangement-02.png](assets//Chapter-2//Table-Arrangement-02.png)
+    ![Table-Arrangement-03.png](assets//Chapter-2//Table-Arrangement-03.png)
+
+    > After you drop the **Table Arrangement** on [Designer Viewer](assets//Common//Designer-Viewer.png), change the columns and rows value to **3** and also change the width of **Table Arrangement** from **Automatic** to **Fill parent**.
+
+* **Step [1]**
+
+    ![Table-Arrangement-10.png](assets//Chapter-2//Table-Arrangement-10.png)
+    ![Table-Arrangement-11.png](assets//Chapter-2//Table-Arrangement-11.png)
+
+    > After that you set their property, we need to add a user interface components and By the way i use **button** for this documentation. First i set 9 buttons in it and will see what it looks like.
+    >
+    > #### Take Note :
+    > 
+    > * **Note [0]** : There is no spanning property on **Table Arrangement**.
+    > * **Note [1]** : You can actually put any user interface components in it.
+    > * **Note [2]** : As you can see, i set the columns and rows value to 3, and this would be 3x3.
 
 ---
 
