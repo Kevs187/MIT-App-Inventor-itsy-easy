@@ -126,7 +126,7 @@ So we need to discuss individually all of this interface that i mentioned earlie
     * **LEGO® MINDSTORMS®**
     * **Experimental**
     * **Extension**
-  <br>
+  </br>
   > I know it's too many, but.. it doesn't mean you'll need to apply all of these things into your project, but anyway... each of these categories has a bunch of components for example : in **User Interface** they have Button, Label, TextBox, and etc. as you can see, they have it's own functionality and purposes.
   > 
   > #### Take Note :
