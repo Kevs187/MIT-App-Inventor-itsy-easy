@@ -129,15 +129,15 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
   
   * Events && Trigger
     
-    * **Button** - Click
+    * Button - Click
     
-    * **TextBox** - GotFocus
+    * TextBox - GotFocus
     
-    * **Checkbox** - Changed
+    * Checkbox - Changed
     
-    * **Screen** - Initialize
+    * Screen - Initialize
     
-    * **Image** - Click
+    * Image - Click
 
 * ##### [Chapter 6](Chapter-6.md)
   
@@ -152,12 +152,24 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     * Get and Set a data from variable
 
 * ##### [Chapter 7](Chapter-7.md)
+
+  * Operators
+
+    * Basic arithmetic operation
+
+    * Random numbers
+
+    * Relational operators
+
+    * Logical operators
+
+* ##### [Chapter 8](Chapter-8.md)
   
   * Conditional and Loop statement
     
     * If
     
-    * If, else
+    * If and else
     
     * If, else if, and else
     
@@ -165,15 +177,15 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * for loops
 
-* ##### [Chapter 8](Chapter-8.md)
+* ##### [Chapter 9](Chapter-9.md)
   
   * Colors
     
     * Built in colors
     
-    * Mix with up RGB
+    * Custom color
 
-* ##### [Chapter 9](Chapter-9.md)
+* ##### [Chapter 10](Chapter-10.md)
   
   * Procedure or Methods
     
@@ -183,7 +195,7 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * Adding a Parameters or Arguments
 
-* ##### [Chapter 10](Chapter-10.md)
+* ##### [Chapter 11](Chapter-11.md)
   
   * List
     
@@ -197,7 +209,7 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * Apply the List into ListView ui
 
-* ##### [Chapter 11](Chapter-11.md)
+* ##### [Chapter 12](Chapter-12.md)
   
   * Dictionaries
     
