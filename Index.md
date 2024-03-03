@@ -145,7 +145,7 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * Explore the data types
     
-    * Global & Local Variable
+    * Global & Local variable
     
     * Declare a variable
     
@@ -173,9 +173,9 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * If, else if, and else
     
-    * while loop
+    * While loop
     
-    * for loops
+    * For loops
 
 * ##### [Chapter 9](Chapter-9.md)
   
@@ -193,7 +193,7 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * Return value procedure
     
-    * Adding a Parameters or Arguments
+    * Adding a parameters or arguments
 
 * ##### [Chapter 11](Chapter-11.md)
   
@@ -205,7 +205,7 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * Counting item on List
     
-    * List Manipulation
+    * List manipulation
     
     * Apply the List into ListView ui
 
@@ -221,7 +221,7 @@ Before you tackle to read this documentation, kindly please read the [notes](#h3
     
     * Counting item on Dictionaries
     
-    * Dictionaries Manipulation
+    * Dictionaries manipulation
     
     * Apply the Dictionaries into ListView ui
 
